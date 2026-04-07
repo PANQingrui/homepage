@@ -1,0 +1,66 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Qingrui Pan (潘卿锐)
+    - name: Position
+      value: Postdoctoral Researcher
+    - name: Email
+      value: pan@tagsys.org
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computing
+      institution: The Hong Kong Polytechnic University, Hong Kong
+      year: 2019 - 2023
+      description:
+        - "Advisor: Dr. Lei Yang"
+        - Research on RFID sensing, physical-layer identification, and backscatter communication.
+    - title: BEng in Information Engineering (First Class Honours)
+      institution: City University of Hong Kong, Hong Kong
+      year: 2013 - 2017
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2023 - now
+      description:
+        - "Supervisor: Prof. Mahesh K. Marina"
+        - Research on NextG Open RAN sensing, private mobile networks, and wireless systems.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - MobiCom Best Paper Award Runner-Up
+        - SECON Best Paper Award
+    - year: 2022
+      items:
+        - MobiCom Student Travel Grant
+        - INFOCOM Student Conference Grant
+    - year: 2017
+      items:
+        - BEng in Information Engineering with First Class Honours
+    - year: 2016
+      items:
+        - CityU Overseas Internship Scheme
+    - year: 2013
+      items:
+        - CityU Mainland Student Scholarship Scheme — Full Tuition Scholarship
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Artificial Intelligence of Things (AIoT)
+      items:
+        - Indoor localization and wireless sensing
+        - Backscatter communication and RFID systems
+        - Physical-layer identification
+    - title: NextG Mobile Networks
+      items:
+        - Open RAN as a sensing infrastructure
+        - Spectrum regulation for private mobile networks
