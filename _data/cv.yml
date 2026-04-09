@@ -4,7 +4,7 @@
     - name: Full Name
       value: Qingrui Pan (潘卿锐)
     - name: Position
-      value: Postdoctoral Researcher
+      value: Short-Range Wireless Engineer
     - name: Email
       value: pan@tagsys.org
 
@@ -24,12 +24,56 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Short-Range Wireless Engineer
+      institution: Huawei Singapore Research Institute, Singapore
+      year: 2025 - now
+      description:
+        - Research and engineering on short-range wireless communication systems.
     - title: Postdoctoral Researcher
       institution: University of Edinburgh, Edinburgh, UK
-      year: 2023 - now
+      year: 2023 - 2025
       description:
         - "Supervisor: Prof. Mahesh K. Marina"
         - Research on NextG Open RAN sensing, private mobile networks, and wireless systems.
+    - title: Assistant Researcher (Internship)
+      institution: Huawei Technologies, Co. Ltd, Shenzhen, China
+      year: Oct - Dec 2020
+      description:
+        - Developed a preliminary indoor RFID localization system using a 4×4 antenna array.
+    - title: Content Creator
+      institution: Moxie Culture Communication, Co., Shenzhen, China
+      year: Nov 2016 - Mar 2019
+      description:
+        - Main writer for over 20 science comics totalling 300 million views; co-published four books with 600,000+ copies sold.
+    - title: Student Research Assistant
+      institution: Technische Hochschule Nürnberg, Germany
+      year: May - Jul 2016
+      description:
+        - Bird species recognition via STFT feature extraction.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: The Hong Kong Polytechnic University, Hong Kong
+      year: 2019 - 2023
+      description:
+        - "COMP2021 Object-Oriented Programming (Fall 2019/2020) — Designed tutorials on Java programming; delivered weekly tutorial classes for 100+ students."
+        - "COMP3421 Web Application Design and Development (Spring 2020/2021/2022) — Designed assignments and project on HTML/CSS for 120+ students per semester."
+        - "ENG2003 Information Technology (Fall 2021, Spring 2023) — Delivered Microsoft Access workshops; designed database and SQL assignments."
+
+- title: Professional Services
+  type: nested_list
+  contents:
+    - title: Reviewer
+      items:
+        - IEEE Internet of Things Journal
+        - IEEE/ACM Transactions on Networking
+        - IEEE Transactions on Mobile Computing
+        - IEEE Conference on Standards for Communications and Networking
+    - title: Talks
+      items:
+        - COMP Research Student Seminar, PolyU
 
 - title: Honors and Awards
   type: time_table
@@ -44,10 +88,10 @@
         - INFOCOM Student Conference Grant
     - year: 2017
       items:
-        - BEng in Information Engineering with First Class Honours
+        - Assistantship under the Teaching Postgraduate Studentship Scheme, PolyU
     - year: 2016
       items:
-        - CityU Overseas Internship Scheme
+        - Overseas Internship Scheme, City University of Hong Kong
     - year: 2013
       items:
         - CityU Mainland Student Scholarship Scheme — Full Tuition Scholarship
@@ -60,7 +104,8 @@
         - Indoor localization and wireless sensing
         - Backscatter communication and RFID systems
         - Physical-layer identification
-    - title: NextG Mobile Networks
+    - title: Wireless Communication
       items:
-        - Open RAN as a sensing infrastructure
+        - Short-range wireless systems
+        - NextG Open RAN as a sensing infrastructure
         - Spectrum regulation for private mobile networks

@@ -8,7 +8,7 @@ middle_name:
 last_name: Pan
 email: pan@tagsys.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral researcher at the University of Edinburgh, working on AIoT, RFID, wireless sensing, and backscatter communication.
+  Short-Range Wireless Engineer at Huawei Singapore Research Institute, working on AIoT, RFID, wireless sensing, and backscatter communication.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -48,7 +48,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
