@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Huawei Singapore Research Institute</p>
     <p>Singapore</p>
+    <p>(📸 ft. a koala who has since pivoted to eucalyptus research)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
