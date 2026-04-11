@@ -4,52 +4,61 @@
     - name: Full Name
       value: Qingrui Pan (潘卿锐)
     - name: Position
-      value: Short-Range Wireless Engineer
+      value: Short Range Wireless Engineer
     - name: Email
       value: pan@tagsys.org
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computing
+    - title: Ph.D. in Computer Science
       institution: The Hong Kong Polytechnic University, Hong Kong
-      year: 2019 - 2023
+      year: Sept 2019 - Dec 2023
       description:
-        - "Advisor: Dr. Lei Yang"
-        - Research on RFID sensing, physical-layer identification, and backscatter communication.
-    - title: BEng in Information Engineering (First Class Honours)
+        - "Chief Supervisor: Dr. Lei Yang, Co-supervisor: Prof. Bin Xiao"
+        - "Cumulative GPA: 3.88/4.3"
+    - title: B.E. in Information Engineering (First Class Honours)
       institution: City University of Hong Kong, Hong Kong
-      year: 2013 - 2017
+      year: Sept 2013 - May 2017
+      description:
+        - "Cumulative GPA: 3.66/4.3"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Short-Range Wireless Engineer
-      institution: Huawei Singapore Research Institute, Singapore
-      year: 2025 - now
+    - title: Short Range Wireless Engineer
+      institution: Huawei Research Institute Singapore, Singapore
+      year: May 2025 - Present
       description:
-        - Research and engineering on short-range wireless communication systems.
+        - Conducted pre-research, technology scouting, and patent development across RFID, SparkLink Passive, and IEEE 802.11bp (AMP) short-range wireless technologies.
+        - Filed 5 CN invention patents as primary inventor (2 additional in preparation); contributed to 7 patents in total.
+        - Participated in IEEE 802.11 standardization as a registered voter — attended 4 Interim/Plenary sessions and all periodic telecoms since May 2025; submitted 6 technical contributions for the AMP amendment.
+        - Participated in SparkLink Passive and IEEE 802.11bp (AMP) protocol specification work.
+        - Designed and developed an AMP MAC-layer simulation system supporting three random access modes, full time-slot collision visualization, realistic spatial fading, uplink/downlink success rate modeling, per-STA energy consumption tracking, and batch experiment CDF comparison.
+        - Supported and validated over 5 colleague patents via simulation-based testing.
+        - Contributed to 2 IMU/PDR technology projects — implemented EKF-based signal optimization and user-turn detection, achieving ~100% accuracy under controlled lab conditions.
     - title: Postdoctoral Researcher
       institution: University of Edinburgh, Edinburgh, UK
-      year: 2023 - 2025
+      year: Dec 2023 - May 2025
       description:
         - "Supervisor: Prof. Mahesh K. Marina"
-        - Research on NextG Open RAN sensing, private mobile networks, and wireless systems.
+        - Research on NextG Open RAN as a sensing infrastructure, spectrum regulation for private mobile networks, and IQ data compression for wireless systems.
     - title: Assistant Researcher (Internship)
       institution: Huawei Technologies, Co. Ltd, Shenzhen, China
       year: Oct - Dec 2020
       description:
-        - Developed a preliminary indoor RFID localization system using a 4×4 antenna array.
+        - Developed a preliminary indoor RFID localization system using a 4×4 antenna array to locate passive UHF RFID tags.
+        - Generated self-defined commands via USRP X310 to extract RSS and phase information; achieved localization error < 10 cm.
     - title: Content Creator
       institution: Moxie Culture Communication, Co., Shenzhen, China
       year: Nov 2016 - Mar 2019
       description:
-        - Main writer for over 20 science comics totalling 300 million views; co-published four books with 600,000+ copies sold.
+        - Main writer for 20+ non-fiction science comics totalling 300 million views; co-published four books with 600,000+ copies sold.
     - title: Student Research Assistant
       institution: Technische Hochschule Nürnberg, Germany
       year: May - Jul 2016
       description:
-        - Bird species recognition via STFT feature extraction.
+        - Bird species recognition via STFT feature extraction; built a MATLAB GUI for manual key segment cutting.
 
 - title: Teaching Experience
   type: time_table
@@ -58,9 +67,9 @@
       institution: The Hong Kong Polytechnic University, Hong Kong
       year: 2019 - 2023
       description:
-        - "COMP2021 Object-Oriented Programming (Fall 2019/2020) — Designed tutorials on Java programming; delivered weekly tutorial classes for 100+ students."
-        - "COMP3421 Web Application Design and Development (Spring 2020/2021/2022) — Designed assignments and project on HTML/CSS for 120+ students per semester."
-        - "ENG2003 Information Technology (Fall 2021, Spring 2023) — Delivered Microsoft Access workshops; designed database and SQL assignments."
+        - "COMP2021 Object-Oriented Programming (Fall 2019/2020, Lecturer: Dr. PEI Yu) — Designed Java tutorials; delivered 4 tutorial classes/week for 6 weeks, 100+ students/semester."
+        - "COMP3421 Web Application Design and Development (Spring 2020/2021/2022, Lecturer: Dr. YANG Lei) — Designed assignments and a homepage project on HTML/CSS for 120+ students/semester."
+        - "ENG2003 Information Technology (Fall 2021, Spring 2023, Lecturer: Dr. YANG Lei) — Delivered Microsoft Access workshops; designed database and SQL assignments."
 
 - title: Professional Services
   type: nested_list
@@ -95,17 +104,3 @@
     - year: 2013
       items:
         - CityU Mainland Student Scholarship Scheme — Full Tuition Scholarship
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Artificial Intelligence of Things (AIoT)
-      items:
-        - Indoor localization and wireless sensing
-        - Backscatter communication and RFID systems
-        - Physical-layer identification
-    - title: Wireless Communication
-      items:
-        - Short-range wireless systems
-        - NextG Open RAN as a sensing infrastructure
-        - Spectrum regulation for private mobile networks
