@@ -16,8 +16,6 @@ categories:
   - research
 ---
 
-# The Future of Passive Tags: RFID Remains Dominant Within 5 Years, A-IoT as Supplement
-
 **Publication Date**: May 2026  
 **Word Count**: Approximately 5,500 words (refined edition)  
 **Target Audience**: Enterprise executives, supply chain decision-makers, IoT product managers, investment analysts
@@ -389,7 +387,7 @@ A large enterprise's complete supply chain might look like this:
 
 ---
 
-## Part Seven: China's Special Market Position
+## Part Six: China's Special Market Position
 
 ### Data: Why China Matters
 
@@ -438,7 +436,7 @@ China isn't just RFID's production base but is **becoming an innovation center f
 
 ---
 
-## Part Eight: Security, Privacy, and Compliance
+## Part Seven: Security, Privacy, and Compliance
 
 ### RFID Security Risks
 
